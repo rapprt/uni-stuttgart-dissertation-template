@@ -11,7 +11,7 @@ viewer = 'C:/Program Files (x86)/SumatraPDF/SumatraPDF.exe'
 editor = gedit
 
 # Main file name and literature list
-MASTER_TEX = thesis-example.tex
+MASTER_TEX = thesis-rapp.tex
 LITERATURE = bibliography.bib
 
 # Derived file names
